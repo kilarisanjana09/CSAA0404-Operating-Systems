@@ -1,4 +1,3 @@
-# CSA0404---operating-systems
 #include<stdio.h>
 #include<conio.h>
 #define max 25
